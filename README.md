@@ -37,7 +37,5 @@ This project analyzes the performance of runners in **50km and 50-mile races** i
 
 ## How to Run the Project
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/RayenHmida647/ultra-marathon-analysis.git
-   cd ultra-marathon-analysis
+
+
