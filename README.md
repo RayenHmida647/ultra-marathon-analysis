@@ -35,7 +35,8 @@ This project analyzes the performance of runners in **50km and 50-mile races** i
 ![Number of athletes and their average speed](histogram_50mi_speed.png)
 ![Average speed length by athletes gender](average_speed_and_gender.png)
 
-## How to Run the Project
+
+
 
 
 
